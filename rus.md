@@ -329,7 +329,7 @@ id селекторов не требуется.
 Наиболее быстрый способ передать пользователю скрипт с ближайшего к нему 
 сервера — использовать технологию CDN от Google.
 Чтобы использовать CDN Google, используйте в коде следующий адрес:
-`http://code.jQuery.com/jQuery-latest.min.js`
+`http://code.jQuery.com/jquery-latest.min.js`
 
 ## Старайтесь совмещать jQuery и нативный JavaScript
 
