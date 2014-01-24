@@ -33,12 +33,10 @@
 собираетесь использовать их повторно в коде.
 
     // плохо
-
     h = $('#element').height();
     $('#element').css('height',h-20);
 
     // хорошо
-
     $element = $('#element');
     h = $element.height();
     $element.css('height',h-20);
@@ -49,13 +47,11 @@
 были замкнуты внутри функций, в которых они используются.
 
     // плохо
-
     $element = $('#element');
     h = $element.height();
     $element.css('height',h-20);
 
     // хорошо
-
     var $element = $('#element');
     var h = $element.height();
     $element.css('height',h-20);
@@ -264,11 +260,9 @@ jQuery-объект.
 медленная выборка.
 
     // плохо
-
     $('.container > *');
 
     // лучше
-
     $('.container').children();
 
 ## Вместо подразумеваемого универсального селектора, пишите конкретные селекторы
