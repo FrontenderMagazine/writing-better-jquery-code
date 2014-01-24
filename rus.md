@@ -379,7 +379,7 @@ jQuery я настоятельно рекомендую использовать
 
  [1]: http://flippinawesome.org/authors/mathew-carella
  [2]: https://github.com/airbnb/JavaScript
- [3]: https://github.com/stevekwan/best-practices/blob/master/JavaScript/best-practices.md
+ [3]: https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
  [4]: http://net.tutsplus.com/tutorials/JavaScript-ajax/24-JavaScript-best-practices-for-beginners/
  [5]: http://net.tutsplus.com/tutorials/JavaScript-ajax/the-essentials-of-writing-high-quality-JavaScript/
  [6]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators#Short-Circuit_Evaluation
