@@ -346,11 +346,11 @@ jQuery мы всего лишь делаем те же самые вещи, ко
 который был бы легче в исполнении для браузера, чем операции на нативном 
 JavaScript.
 
+[![jq][10]][16]
+
 _(Кликните на картинку и проверьте)_
 
-![jq][10]
-
-Из-за этой разнице в производительности между встроенным в браузер JavaScript и
+Из-за разницы в производительности между встроенным в браузер JavaScript и
 jQuery я настоятельно рекомендую использовать их вместе (но делать это со всей 
 ответственностью). И, по возможности, используйте как можно чаще [нативные 
 аналоги для функций jQuery][11].
@@ -396,4 +396,5 @@ jQuery я настоятельно рекомендую использовать
  [13]: http://microjs.com/
  [14]: http://net.tutsplus.com/tutorials/JavaScript-ajax/how-to-build-your-own-custom-jQuery/
  [15]: http://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F
+ [16]: http://jsperf.com/jquery-vs-javascript-performance-comparison
  [jQuery]: img/header.jpg "jQuery"
