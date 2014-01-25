@@ -392,5 +392,5 @@ jQuery я настоятельно рекомендую использовать
  [13]: http://microjs.com/
  [14]: http://net.tutsplus.com/tutorials/JavaScript-ajax/how-to-build-your-own-custom-jQuery/
  [15]: http://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F
- [16]: http://jsperf.com/jquery-vs-javascript-performance-comparison
+ [16]: http://jsperf.com/jquery-vs-javascript-performance-comparison/30
  [jQuery]: img/header.jpg "jQuery"
